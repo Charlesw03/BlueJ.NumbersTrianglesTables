@@ -78,7 +78,7 @@ public class TriangleUtilitiesTest {
 
     @Test
     public void testGetLargeTriangle() {
-        String expected =
+        String expected  =
                 "*\n" +
                 "**\n" +
                 "***\n" +
